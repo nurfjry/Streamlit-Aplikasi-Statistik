@@ -1,6 +1,5 @@
 pandas
 matplotlib
 numpy
-sklearn
 scipy
 streamlit_lottie
