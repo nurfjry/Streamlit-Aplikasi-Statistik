@@ -3,3 +3,4 @@ matplotlib
 numpy
 scipy
 streamlit_lottie
+sklearn
